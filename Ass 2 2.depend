@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1542878510 source:c:\users\maria\desktop\ass 2 2\main.cpp
+	"BigDecimalInt.h"
+	<iostream>
+	<string>
+
+1542874451 c:\users\maria\desktop\ass 2 2\include\bigdecimalint.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	<cmath>
+	"BigDecimalInt.h"
+
+1542875614 source:c:\users\maria\desktop\ass 2 2\src\bigdecimalint.cpp
+	"BigDecimalInt.h"
+	"stdlib.h"
+

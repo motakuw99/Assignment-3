@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1542838392 source:c:\users\maria\desktop\ass 2 indi\main.cpp
+	<iostream>
+	<string>
+	"LabelGenerator.h"
+
+1542838401 c:\users\maria\desktop\ass 2 indi\include\labelgenerator.h
+	<iostream>
+
+1542878348 source:c:\users\maria\desktop\ass 2 indi\src\labelgenerator.cpp
+	"LabelGenerator.h"
+	<iostream>
+	<algorithm>
+
+1542878348 source:c:\users\maria\desktop\ass 2\ass 2 task 2 individual\src\labelgenerator.cpp
+	"LabelGenerator.h"
+	<iostream>
+	<algorithm>
+
+1542838401 c:\users\maria\desktop\ass 2\ass 2 task 2 individual\include\labelgenerator.h
+	<iostream>
+
+1542881388 source:c:\users\maria\desktop\ass 2\ass 2 task 2 individual\main.cpp
+	<iostream>
+	<string>
+	"LabelGenerator.h"
+
